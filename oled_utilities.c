@@ -13,7 +13,7 @@
  *\n       10-15-12 Rev 1.6 Nathan Young	OLED display support
  * 
  *  --------------------------------------------------------------------
- * 
+ 
  *    This code follows the following naming conventions.
  * 
  * 	  char                   chPmodValue
